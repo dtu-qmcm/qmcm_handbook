@@ -55,5 +55,3 @@ format:
     theme: cosmo
     embed-resources: true
     include-in-header: mathjax.html
-  ipynb: default
-
