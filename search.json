@@ -40,6 +40,16 @@
     ]
   },
   {
+    "objectID": "fusion.html",
+    "href": "fusion.html",
+    "title": "Fusion",
+    "section": "",
+    "text": "Fusion",
+    "crumbs": [
+      "Fusion"
+    ]
+  },
+  {
     "objectID": "masters_info.html",
     "href": "masters_info.html",
     "title": "Information about studying your masters in QMCM",
@@ -57,6 +67,16 @@
     "text": "General information",
     "crumbs": [
       "General information"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome!\nThis handbook aims to make it easier for you to study and work in the Quantitative Modelling of Cell Metabolism group.",
+    "crumbs": [
+      "Welcome!"
     ]
   },
   {
