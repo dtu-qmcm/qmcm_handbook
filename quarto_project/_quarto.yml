@@ -1,0 +1,57 @@
+resource_path: ["../"]
+bibliography: bibliography.bib
+citestyle: ieee.csl
+reference-location: margin
+toc: true
+filters:
+  - include-code-files
+
+project:
+  type: website
+  output-dir: "../_site"
+  render:
+    - general_information.md
+    - phd_timeline.md
+    - masters_info.md
+    - phd_thesis.md
+    - fusion.md
+    - courses.md
+    - conferences.md
+    - journals.md
+    - office365.md
+    - expenses_and_travel.md
+    - learning_resources.md
+    - events.md
+    - living_in_denmark.md
+
+website:
+  title: "QMCM Handbook"
+  navbar:
+    tools:
+      - icon: github
+        url:  https://github.com/dtu-qmcm/qmcm_handbook
+  sidebar:
+    style: "docked"
+    serach: true
+    contents:
+      - general_information.md
+      - phd_timeline.md
+      - masters_info.md
+      - phd_thesis.md
+      - fusion.md
+      - courses.md
+      - conferences.md
+      - journals.md
+      - office365.md
+      - expenses_and_travel.md
+      - learning_resources.md
+      - events.md
+      - living_in_denmark.md
+
+format:
+  html:
+    theme: cosmo
+    embed-resources: true
+    include-in-header: mathjax.html
+  ipynb: default
+
