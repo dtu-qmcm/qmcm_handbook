@@ -10,6 +10,7 @@ project:
   type: website
   output-dir: "../_site"
   render:
+    - index.md
     - general_information.md
     - phd_timeline.md
     - masters_info.md
@@ -34,6 +35,7 @@ website:
     style: "docked"
     serach: true
     contents:
+      - index.md
       - general_information.md
       - phd_timeline.md
       - masters_info.md
