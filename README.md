@@ -16,8 +16,11 @@ These files are converted to html using [quarto](https://quarto.org) and
 deployed using [github pages](https://pages.github.com/) and [this github action](https://github.com/dtu-qmcm/qmcm_handbook/blob/main/.github/workflows/publish.yml).
 
 To edit or create a page, just find or create its markdown file, either on github
-or in your local copy of the repository, then commit your changes. When they 
-make it to the `main` branch, the website will be updated automatically.
+or in your local copy of the repository. Next, make sure your page is listed in 
+the `project.render` and `website.sidebar.contents` lists in the project's
+[`_quarto.yml`](https://github.com/dtu-qmcm/qmcm_handbook/blob/main/quarto_project/_quarto.yml) file,
+adding it if necessary. Finally, commit your changes. When they make it to the
+`main` branch, the website will be updated automatically.
 
 If you want to check on your computer how your changes are going to look, install 
 quarto and then run `quarto render quarto_project` from the project root 
