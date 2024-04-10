@@ -1,4 +1,4 @@
-# Information about studying your masters in QMCM
+# Doing your master's thesis in QMCM
 
 ## Rules
 You can find general rules for the master thesis [here](https://www.inside.dtu.dk/en/undervisning/regler/afsluttende-projekter/kandidatspeciale).  
