@@ -14,8 +14,6 @@ The COBRA community is invited to COBRA 2024, a conference dedicated to discussi
 It's a must-attend event for anyone interested in constraint-based metabolic modeling
 
 
----
-
 ## 2. Metabolic Pathway Analysis (MPA)
 
 **Date:** July 28 - August 1, 2025  
@@ -33,7 +31,6 @@ MPA 2025 aims to assemble leading academic scientists, research scholars, and in
 ### Venue
 The international conference will be hosted at the Main Building of the University of Vienna, within the Arcaded Courtyard and the lecture hall BIG. MPA 2025 is intended to be organized according to the Green Meeting criteria in full compliance with the Austrian Eco-Label.
 
----
 ## 3. Metabolic Engineering 16
 
 **Date:** June 15 - June 19, 2025  
@@ -49,9 +46,6 @@ The Metabolic Engineering community continuously pushes the frontiers by develop
 ### Venue
 The conference will be held in the center of Copenhagen, the capital of Denmark, a country known for its high R&D intensity and as a hub for biotech innovation. Copenhagen, the World Safest City 2021 and the best biking city in the world, offers attendees a vibrant atmosphere with attractions like Tivoli, museums, castles, and top-notch restaurants.
 
-
-
----
 ## 4. Conferences held by Novo Nordisk Foundation (NNF)
 
 ### The Automated Scientist – the future of cell factory engineering
