@@ -8,10 +8,10 @@ There are many events happening at the center. This can range from purely scient
 **Other information:** Sandwiches or cake are available for free after the seminar. Before hte seminar a mail gets sent out with a calendar invitation and the zoom link if available. You can find information about the speakers [here](https://dtudk.sharepoint.com/:x:/r/sites/DTUBiosustain/_layouts/15/Doc.aspx?sourcedoc=%7B5D218F9D-D530-4161-BCCA-F80883C5C174%7D&file=Science%20Seminars%20&%20Sandwiches%20-%20Schedule%20.xlsx=&wdLOR=cB3548AAF-B3A3-461A-A4AF-C95EF66FF456&action=default&mobileredirect=true).
 
 ## PhD Friday seminars
-**Time:** Fridays from 11:00 to 12:00
+**Time:** Fridays from 11:00 to 12:00  
 **Location:** Room 213 (the conference room in front of the reception)  
-**Description:** 2 20-minute presentations given by PhD students at the center.
-**Other information:**
+**Description:** 2 20-minute presentations given by PhD students at the center.  
+**Other information:**  
 
 ## Friday bar
 **Time:** The last Friday of the month from 16:00  
