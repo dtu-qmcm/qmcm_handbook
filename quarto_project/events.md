@@ -22,11 +22,11 @@ There are many events happening at the center. This can range from purely scient
 ## ERA meetings
 **Time:** The first Monday of the month from 12:00 to 13:00  
 **Location:** Room 213 (the meeting room next to the reception)  
-**Description:** Club for PhDs, research assistants and postdocs. They organise social events.
+**Description:** Club for PhDs, research assistants and postdocs. They organise social events.  
 **Other information:** The meetings are informal, you can bring lunch and eat during the meeting. There is a Teams channel where you can ask more information.  
 
 ## DTU Biosustain goes Green
-**Time:** The second Thursday of the month from 12:00 t0 13:00
+**Time:** The second Thursday of the month from 12:00 t0 13:00  
 **Location:** Room 213 (the meeting room next to teh reception)  
 **Description:** Group of volunteers that try to make the center more sustainable  
 **Other information:** The group both organises events and discusses/implements measures to improve sustainability. The meetings are informal, you can bring lunch and eat during the meeting. There is a Teams channel where you can ask more information.  
