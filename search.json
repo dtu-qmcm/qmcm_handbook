@@ -14,7 +14,17 @@
     "href": "learning_resources.html",
     "title": "Learning resources",
     "section": "",
-    "text": "Learning resources",
+    "text": "The git book\nW3 Schools git and github introduction",
+    "crumbs": [
+      "Learning resources"
+    ]
+  },
+  {
+    "objectID": "learning_resources.html#git",
+    "href": "learning_resources.html#git",
+    "title": "Learning resources",
+    "section": "",
+    "text": "The git book\nW3 Schools git and github introduction",
     "crumbs": [
       "Learning resources"
     ]
