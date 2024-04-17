@@ -8,9 +8,11 @@
 
 [Guidelines for PhDigital](https://phdigital.dtu.dk/_layouts/15/WopiFrame.aspx?sourcedoc={8b87733a-f8f6-44a5-917b-78b34e09ebd5})
 
+[Main link for forms](https://www.inside.dtu.dk/en/undervisning/administration/phd-uddannelse-administration/administration/skemaer)
+
 ## PhD project plan (0 - 2 months)
 
-Focus solely on your PhD project plan for the first two months of your PhD, which has to be submitted to [PhDigital](https://phdigital.dtu.dk) at the end of the second month. The main part of the project plan is the project description and project overview as a Gantt chart, which can be added as a PDF attachment to the PhDigital project plan. The project description should contain working title, background based on literature research, hypothesis, objectives and deliverables, means and references. The project overview should be a Gantt chart containing all planned activities during the PhD project.
+Focus solely on your PhD project plan for the first two months of your PhD, which has to be submitted to [PhDigital](https://phdigital.dtu.dk) at the end of the second month. The main part of the project plan is the project description and project overview as a Gantt chart ([template](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer/gantt-project-planner-template.xlsx)), which can be added as a PDF attachment to the PhDigital project plan. The project description should contain working title, background based on literature research, hypothesis, objectives and deliverables, means and references. The project overview should be a Gantt chart containing all planned activities during the PhD project.
 
 ### Courses
 
@@ -47,7 +49,7 @@ For the department work you have to plan **up to** 420 hours including a mandato
 
 ### Dissemination of your research
 
-Dissemination is anything related to broadcasting your research, ranging from conference posters and presentations to writing scientific publications. A **minimum** of 420 hours has to be planned for dissemination if your research. As an average, you can allocated 50 hours for conference participation and a poster or presentation, and 100 hours for writing and publishing a scientific article.
+Dissemination is anything related to broadcasting your research, ranging from conference posters and presentations to writing scientific publications. A **minimum** of 420 hours has to be planned for dissemination if your research. As an average, you can allocated 50 hours for conference participation and a poster or presentation, and 100 hours for writing and publishing a scientific article. Visit the [Conferences](conferences.md) page for a full overview of conferences.
 
 ### Supervision
 
@@ -55,12 +57,28 @@ It is mandatory to meet at least every two weeks with your main supervisor and o
 
 ## Half year reports (5 - 35 months)
 
-The half-year reports have to be submitted every six months in [PhDigital](https://phdigital.dtu.dk) and are a measure to track your progress through the PhD. For the "past six months" and "next six months" summaries, you can simple write a paragraph with an update or plan of your PhD activities, respectively. It is important to stay up-to-date with your half-year reports, since they have to be all submitted and approved before you can submit your PhD thesis in the end. Any changes in courses, external research stay, etc compared to the original PhD project plan, should be written in the half-year reports and will be approved accordingly.
+The half-year reports have to be submitted every six months in [PhDigital](https://phdigital.dtu.dk) and are a measure to track your progress through the PhD. Select that the progress is satisfactory. For the "past six months" and "next six months" summaries, you can simple write a paragraph with an update or plan of your PhD activities, respectively. It is important to stay up-to-date with your half-year reports, since they have to be all submitted and approved before you can submit your PhD thesis in the end. Any changes in courses, external research stay, etc compared to the original PhD project plan, should be written in the half-year reports and will be approved accordingly.
 
 ## First-year interview (11 - 12 months)
 
-The aim of the first-year interview is to improve both the PhD student and the PhD school. The interview is conducted by a scientific staff member serving on the PhD school committee. If this is not possible, another scientific staff member will be appointed to conduct the interview by agreement with the head of the PhD school. This interview is also your chance to talk through your PhD journey with a scientific staff member who is not your supervisor and this can provide you with very useful feedback.
+The aim of the first-year interview is to improve both the PhD student and the PhD school. The interview is conducted by a scientific staff member serving on the PhD school committee. If this is not possible, another scientific staff member will be appointed to conduct the interview by agreement with the head of the PhD school. This interview is also your chance to talk through your PhD journey with a scientific staff member who is not your supervisor and this can provide you with very useful feedback. There is a [guide](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer/first-year-interview-guide.doc) available to help you conduct the interview.
 
 ## Half-way presentation (17 - 19 months)
 
+The half-way presentation should be planned around the 18 month mark of the PhD project. Two examiners should be selected to attend the half-way presentation and the (private) discussion afterwards. One examiner should be internal from the DTU Biosustain department and one examiner should be external, preferably from outside Denmark. The discussion is attended by the main supervisor, the co-supervisor(s) and the two examiners. After the discussion, the examiners will provide feedback on the progress of the PhD project to help you prepare for the second half of the PhD. The presentation is around 20 minutes and is usually done during the PhD Friday seminars, but could be done on any day and time, depending on the availability of the examiners. It can be helpful to write a short report on your progress to send out to the supervisor team and the examiners beforehand to ensure sufficient feedback during the half-way session. Such a report can focus on background, objectives, progress and publication goals of the PhD project.
 
+## External research stay (12 - 30 months)
+
+
+
+### Travel grants
+
+
+
+## PhD thesis submission and defense (33 - 36 months)
+
+The preparations for the PhD thesis submission should start around 3 months before the hand-in date, which is exactly 3 years after you started. The PhD defence should take place **no longer** than 3 months after the PhD submission date. All information on this topic can be found on the [PhD submission and defence](phd_thesis.md) page.
+
+### Extension of the PhD (33 months)
+
+The PhD project can be extended with 3 months and the application for the extension can be submitted to the PhD school 3 months before the original hand-in date. More information can be found on the [PhD administration page](https://www.inside.dtu.dk/en/undervisning/regler/phd-uddannelse-studerende/phd-undervejs/forlaengelse) and the form for the application can be found [here](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer/extension.docx).
