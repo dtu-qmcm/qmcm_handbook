@@ -37,7 +37,12 @@ You can always add courses for approval after the submission of the project plan
 
 ### External research stay
 
-The main goal of the external research stay is to experience a different research environment, so it is encouraged to go abroad. The duration of the external research stay will depend on the individual PhD project, however the average duration is three months. From three months or longer you can apply for travel grants to aid in funding the external research stay and this is also encouraged. For the project plan, you need to plan where, with whom and roughly when the external research stay will happen.
+The main goal of the external research stay is to experience a different research environment, so it is encouraged to go abroad. The duration of the external research stay will depend on the individual PhD project, however the average duration is three months. From three months or longer you can apply for travel grants to aid in funding the external research stay and this is also encouraged. For the project plan, you need to plan where, with whom and roughly when the external research stay will happen. Previous students have visisted different universities and companies for their external research stays, so there are many options and some examples are provided here.
+
+* Systems & Synthetic Biology group of professor Lars Nielsen at the University of Queensland (UQ) in Brisbane, Australia.
+* The Systems Biology Research Group of professor Bernhard Palsson at the University of California San Diego (UCSD) in San Diego, USA.
+* 
+* Amyris in Emeryville, USA (contact through ...).
 
 ### Department work
 
@@ -69,11 +74,15 @@ The half-way presentation should be planned around the 18 month mark of the PhD 
 
 ## External research stay (12 - 30 months)
 
-
+It is advisable to plan the external research stay between the 12 and 30 months mark, but it can be planned whenever it makes the most sense within the PhD project. To make the most out of the external research stay, within the first year is usually a bit too early. To avoid stress towards the end of the PhD project, the external research stay is usually planned to end before the last 6 months of the PhD project. There is no minimum requirement for the duration of the external research stay, but 3 month is the optimal for most. If you are planning to work in the laboratory at the host university or company, a duration of 6 months is more appropriate. With a duration of 3 months or longer, you can apply for travel grants to cover some of the costs of the external research stay. No need to worry, the costs of flights and the accomodation abroad is always covered by the main supervisor and the PhD school. It is recommended to start the preparations for the external research stay **at least** 6 months prior to leave enough time to apply for travel grants, visa, etc. For accomodation, it is possible to book an apartment through Airbnb to expand your options.
 
 ### Travel grants
 
+A nice overview of travel grants can be found on the [travel and research stays abroad](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/finansiering-fonde-og-legater/muligheder-for-at-soege-hos-fonde-og-raad/funding-categories-e-g-postdocs-infrastructure-travels-etc/travel-and-research-stays-abroad?rfb=eyJwIjpmYWxzZSwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6InZ4STZqcTJ5WkJPeW02d0JkcGlWMnciLCJhaWQiOjI1MDExOSwic2VjaWQiOjkyMTM0NjU1LCJzdCI6IndlYl9zY3JhcGUifQ) page. An overview of all travel grants which where awarded to other PhD students in the QMCM group is provided here.
 
+* [Otto Mønsteds Fond](https://omfonden.dk/application/) applied for in 2022 and 15,000 DKK received. The deadline is 2 months prior to the start of your external research stay and the requirements for the application are: signed support letter from institution confirming their support (in addition to salary) and the extent of it, recommendation letter from the institution or supervisor, invitation from the host institution.
+* [Christian og Ottilia Brorsons Rejselegater](https://www.legatbogen.dk/christian-og-ottilia-brorsons-rejselegat/stoetteomraade/1731) applied for in 2022 and 5,000 DKK received. The deadline is 1st of September and the requirements for the application are: application form, master's degree, list of other grants for which you applied to, CV, recommendation letter, project description. This application has to be send by post to an office in Copenhagen.
+* [Niels Bohr Fondet](https://www.royalacademy.dk/en/Legater/Legater/Niels-Bohr-Fondet) applied for in 2022 and .. DKK received. The deadline is 1st of October and the requirements for the application are (6 pages maximum): project description including well-founded description of the object of the researcher's stay as well as a justification for choosing this specific place to do your research (2 pages maximum), documentary proof of research location including invitation from host university (if possible), budget including information about the financing of the stay, and CV.
 
 ## PhD thesis submission and defense (33 - 36 months)
 
