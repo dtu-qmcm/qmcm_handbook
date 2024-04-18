@@ -13,8 +13,8 @@ project:
     - index.md
     - general_information.md
     - phd_timeline.md
-    - masters_info.md
     - phd_thesis.md
+    - masters_info.md
     - fusion.md
     - courses.md
     - conferences.md
@@ -38,8 +38,8 @@ website:
       - index.md
       - general_information.md
       - phd_timeline.md
-      - masters_info.md
       - phd_thesis.md
+      - masters_info.md
       - fusion.md
       - courses.md
       - conferences.md
