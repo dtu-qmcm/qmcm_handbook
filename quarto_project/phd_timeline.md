@@ -18,11 +18,12 @@ Focus solely on your PhD project plan for the first two months of your PhD, whic
 
 For the project plan, 25.0 ECTS have to be planned of the total 30.0 ECTS required to finish the PhD program. For the final submission at the end of the PhD program, the ECTS total has to be between 27.5 and 32.5 ECTS, otherwise the submission will be rejected. Keep this in mind when planning the courses for the project plan.
 
-There are two mandatory courses and one mandatory workshop which every PhD student at DTU has to follow:
+There are three mandatory courses and one mandatory workshop which every PhD student at DTU has to follow:
 
-* Sustainability Assessment and Communication for 2.5 ECTS points (register through the [DTU course base](https://kurser.dtu.dk/) using course number [12950](https://kurser.dtu.dk/course/12950), [12951](https://kurser.dtu.dk/course/12951) or [12952](https://kurser.dtu.dk/course/12952))
-* Supervision and facilitation of learning for 1.0 ECTS point (register through the [DTU Learning Lab](https://learninglab.dtu.dk/courses-and-events/supervision-and-facilitation-of-learning#dates--registration))
-* Introduction to responsible conduct of research and research data management for new employees workshop (register through [DTU Inside](https://www.inside.dtu.dk/en/medarbejder/hr-og-arbejdsmiljoe/kompetenceudvikling/kursusoversigt_overside/kursusoversigt#?query=%7B%22Theme%22:%2235556%22,%22Role%22:%22%22,%22Language%22:%22%22,%22Cost%22:%22%22,%22SearchWord%22:%22%22,%22SortOn%22:%22%22,%22MaxRecords%22:10%7D))
+* Sustainability Assessment and Communication for 2.5 ECTS points (register through the [DTU course base](https://kurser.dtu.dk/) using course number [12950](https://kurser.dtu.dk/course/12950), [12951](https://kurser.dtu.dk/course/12951) or [12952](https://kurser.dtu.dk/course/12952)).
+* Supervision and facilitation of learning for 1.0 ECTS point (register through the [DTU Learning Lab](https://learninglab.dtu.dk/courses-and-events/supervision-and-facilitation-of-learning#dates--registration)).
+* PhD Seminars in Bioengineering and Synthetic Biology for 3.0 ECTS ([29903](https://kurser.dtu.dk/course/29903) You should attend at least 2/3 of the Friday seminar sessions and present yourself 3 times: one per year where the half-way presentation counts as one when done during the Friday seminar).
+* Introduction to responsible conduct of research and research data management for new employees workshop (register through [DTU Inside](https://www.inside.dtu.dk/en/medarbejder/hr-og-arbejdsmiljoe/kompetenceudvikling/kursusoversigt_overside/kursusoversigt#?query=%7B%22Theme%22:%2235556%22,%22Role%22:%22%22,%22Language%22:%22%22,%22Cost%22:%22%22,%22SearchWord%22:%22%22,%22SortOn%22:%22%22,%22MaxRecords%22:10%7D)).
 
 There are many options for allocating the remaining required ECTS:
 
@@ -33,7 +34,7 @@ There are many options for allocating the remaining required ECTS:
 
 When you want to add a non-DTU course to your project plan, a separate [form](https://www.inside.dtu.dk/-/media/dtudk/uddannelse/phd-udannelse/dokumenter/description-ects-activity.docx) with a detailed description of the ECTS activity needs to be filled out. The completed form and the course description need to be combined in one PDF file and attached to the project plan.
 
-You can always add courses for approval after the submission of the project plan by adding them to your half-year reports.
+You can always add courses for approval after the submission of the project plan by adding them to your half-year reports. The registration of completed courses is done through PhDigital as well by attaching the course certification to the next half-year report and writing a note with the course name and number of ECTS that need to be registered.
 
 ### External research stay
 
