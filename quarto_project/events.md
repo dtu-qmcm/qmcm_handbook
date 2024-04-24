@@ -1,5 +1,5 @@
 # Events
-There are many events happening at the center. This can range from purely scientific to 
+There are many events happening at the center. This can range from purely scientific to social events.  
 
 ## Science seminars
 **Time:** Usually Tuesdays from 11:00 to 12:00  
