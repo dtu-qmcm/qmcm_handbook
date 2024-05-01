@@ -26,7 +26,11 @@ The supervisor report goes through PhDigital and is initialised by the PhD stude
 
 ## PhD thesis submission
 
+There are a few guidelines to consider for the PhD thesis itself, however most of the thesis is up to the PhD student and their preferences. Generally, the PhD thesis includes 3 main chapters which can be either published articles or unpublished manuscripts, a general introduction chapter, and a conclusions and recommendations chapter. It is crucial to check the guidelines of scientific journals if published articles or unpublished manuscripts are allowed to be imbedded in the PhD thesis in their original format. PhD thesis titles need to be comprehensible and enticing to a potential reader, while at the same time not being so general and vague as to obscure what the PhD thesis is about. Furthermore, titles should be concise and informative. Abbreviations and formulae should be avoided where possible. It is recommended to include a few keywords in the title to aid web-searches.
 
+There is no official template for the PhD thesis document, but you can adapt the [general DTU report template](https://www.inside.dtu.dk/en/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/skabeloner/rapporter?rfb=eyJwIjpmYWxzZSwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6InZ4STZqcTJ5WkJPeW02d0JkcGlWMnciLCJhaWQiOjI1MjgzNywic2VjaWQiOjkyMTM3MjQ3LCJzdCI6IndlYl9zY3JhcGUifQ) to fit the thesis. Official DTU logos, colours and other templates can be found in the [DTU design guide](https://designguide.dtu.dk/).
+
+For the cover, 
 
 ## PhD defence
 
