@@ -88,6 +88,6 @@ A nice overview of travel grants can be found on the [travel and research stays 
 
 The preparations for the PhD thesis submission should start around 3 months before the hand-in date, which is exactly 3 years after you started. The PhD defence should take place **no longer** than 3 months after the PhD submission date. All information on this topic can be found on the [PhD submission and defence](phd_thesis.md) page.
 
-### Extension of the PhD (33 months)
+## Extension of the PhD (33 months)
 
 The PhD project can be extended with 3 months and the application for the extension can be submitted to the PhD school 3 months before the original hand-in date. More information can be found on the [PhD administration page](https://www.inside.dtu.dk/en/undervisning/regler/phd-uddannelse-studerende/phd-undervejs/forlaengelse) and the form for the application can be found [here](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer/extension.docx).

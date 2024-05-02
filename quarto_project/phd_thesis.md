@@ -30,8 +30,41 @@ There are a few guidelines to consider for the PhD thesis itself, however most o
 
 There is no official template for the PhD thesis document, but you can adapt the [general DTU report template](https://www.inside.dtu.dk/en/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/skabeloner/rapporter?rfb=eyJwIjpmYWxzZSwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6InZ4STZqcTJ5WkJPeW02d0JkcGlWMnciLCJhaWQiOjI1MjgzNywic2VjaWQiOjkyMTM3MjQ3LCJzdCI6IndlYl9zY3JhcGUifQ) to fit the thesis. Official DTU logos, colours and other templates can be found in the [DTU design guide](https://designguide.dtu.dk/).
 
-For the cover, 
+For the cover, there is a template available from the [DTU design guide PhD thesis section](https://designguide.dtu.dk/print), but most PhD students produce their own cover design. The cover should as a minimum have the DTU logo in the top left corner, the DTU department in the top right corner, the title of the PhD thesis and the name of the PhD student. Please refer to the [DTU design guide logo section](https://designguide.dtu.dk/logo) for the appropriate use of the DTU logo, department name, etc. The cover is allowed to be any colour, but it is important to know that the spine of the printed PhD thesis can only be selected from 12 different DTU colours. So, if you want the colour of the cover to match the colour of the spine, please refer to the colour codes in the section below in advance.
+
+
 
 ## PhD defence
+
+
+
+## Printing of the PhD thesis
+
+
+
+* Log into Fusion and select "Procurement" in the main menu. 
+* Choose "Purchase Requisitions (Search)"
+* Enter "step print power" in the search field
+* Click on "Step Print Power - External Store" in the search results
+
+Available colours and corresponding CYMK codes for the spine and cover of the printed PhD thesis:
+
+![Available spine colours](Spine_colours.png)
+
+* DTU red (0, 91, 72, 23)
+* Black (20, 20, 10, 100)
+* Blue (100, 64, 0, 0)
+* Dark blue (100, 90, 0, 60)
+* Purple (67, 96, 0, 0)
+* Red (0, 86, 65, 0)
+* Orange (0, 35, 26, 0)
+* Pink (0, 35, 26, 0)
+* Yellow (0, 19, 84, 0)
+* Bright green (69, 0, 66, 0)
+* Green (89, 5, 100, 17)
+* Grey (0, 0, 0, 20)
+
+For the shipping on the printed PhD theses, the official address for DTU Biosustain is: Søltofts Plads, bygning 220, 2800 Lyngby. For the billing, the [official EAN numbers list](https://www.dtu.dk/Om-DTU/kontakt-og-besoeg/for-leverandoerer/samhandel-med-dtu/ean-numre) states the EAN number for DTU Biosustain: 5798000430297.
+
 
 
