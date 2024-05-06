@@ -2,7 +2,7 @@
 
 ## Preparations (3 months before thesis submission)
 
-The submission at the end of the 3-year PhD is more than submission of the PhD thesis alone. The following documents have to prepared and submitted as well, either beforehand or simultaneously with the PhD thesis. To ensure a smooth PhD submission, the documents apart from the PhD thesis can be submitted before the hand-in date to be approved already.
+The submission at the end of the 3-year PhD is more than submission of the PhD thesis alone. The following documents have to prepared and submitted as well, either beforehand or simultaneously with the PhD thesis. To ensure a smooth PhD submission, the documents apart from the PhD thesis can be submitted before the hand-in date to be approved already. All documents should be submitted to the [PhD school of DTU Biosustain](CFB-PhD@biosustain.dtu.dk).
 
 ### PhD submission checklist
 
@@ -26,7 +26,7 @@ The supervisor report goes through PhDigital and is initialised by the PhD stude
 
 ## PhD thesis submission
 
-There are a few guidelines to consider for the PhD thesis itself, however most of the thesis is up to the PhD student and their preferences. Generally, the PhD thesis includes 3 main chapters which can be either published articles or unpublished manuscripts, a general introduction chapter, and a conclusions and recommendations chapter. It is crucial to check the guidelines of scientific journals if published articles or unpublished manuscripts are allowed to be imbedded in the PhD thesis in their original format. PhD thesis titles need to be comprehensible and enticing to a potential reader, while at the same time not being so general and vague as to obscure what the PhD thesis is about. Furthermore, titles should be concise and informative. Abbreviations and formulae should be avoided where possible. It is recommended to include a few keywords in the title to aid web-searches.
+There are a few guidelines to consider for the PhD thesis itself, however most of the thesis is up to the PhD student and their preferences. Generally, the PhD thesis includes 3 main chapters which can be either published articles or unpublished manuscripts, a general introduction chapter, and a conclusions and recommendations chapter. It is crucial to check the guidelines of scientific journals if published articles or unpublished manuscripts are allowed to be imbedded in the PhD thesis in their original format. PhD thesis titles need to be comprehensible and enticing to a potential reader, while at the same time not being so general and vague as to obscure what the PhD thesis is about. Furthermore, titles should be concise and informative. Abbreviations and formulae should be avoided where possible. It is recommended to include a few keywords in the title to aid web-searches. The final PhD thesis should be submitted to the [PhD school of DTU Biosustain](CFB-PhD@biosustain.dtu.dk).
 
 ### Templates
 
