@@ -6,7 +6,7 @@ The submission at the end of the 3-year PhD is more than submission of the PhD t
 
 ### PhD submission checklist
 
-The [PhD submission checklist form](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer/thesis-checklist.docx) has to be filled out and signed before submission together with the PhD thesis. All components of the checklist are listed below, but the checklist itself should not be forgotten.
+The [PhD submission checklist form](https://www.inside.dtu.dk/-/media/dtu-inside/undervisning/undervisningsadministration/phd-uddannelse-administratorer/skemaer) has to be filled out and signed before submission together with the PhD thesis. All components of the checklist are listed below, but the checklist itself should not be forgotten.
 
 ### Approval of the assessment committee
 
@@ -28,17 +28,24 @@ The supervisor report goes through PhDigital and is initialised by the PhD stude
 
 There are a few guidelines to consider for the PhD thesis itself, however most of the thesis is up to the PhD student and their preferences. Generally, the PhD thesis includes 3 main chapters which can be either published articles or unpublished manuscripts, a general introduction chapter, and a conclusions and recommendations chapter. It is crucial to check the guidelines of scientific journals if published articles or unpublished manuscripts are allowed to be imbedded in the PhD thesis in their original format. PhD thesis titles need to be comprehensible and enticing to a potential reader, while at the same time not being so general and vague as to obscure what the PhD thesis is about. Furthermore, titles should be concise and informative. Abbreviations and formulae should be avoided where possible. It is recommended to include a few keywords in the title to aid web-searches.
 
-There is no official template for the PhD thesis document, but you can adapt the [general DTU report template](https://www.inside.dtu.dk/en/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/skabeloner/rapporter?rfb=eyJwIjpmYWxzZSwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6InZ4STZqcTJ5WkJPeW02d0JkcGlWMnciLCJhaWQiOjI1MjgzNywic2VjaWQiOjkyMTM3MjQ3LCJzdCI6IndlYl9zY3JhcGUifQ) to fit the thesis. Official DTU logos, colours and other templates can be found in the [DTU design guide](https://designguide.dtu.dk/).
+### Templates
+
+There is no official template for the PhD thesis document, but you can adapt the [general DTU report template](https://www.inside.dtu.dk/en/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/skabeloner/rapporter?rfb=eyJwIjpmYWxzZSwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6InZ4STZqcTJ5WkJPeW02d0JkcGlWMnciLCJhaWQiOjI1MjgzNywic2VjaWQiOjkyMTM3MjQ3LCJzdCI6IndlYl9zY3JhcGUifQ) to fit the thesis. Official DTU logos, colours and other templates can be found in the [DTU design guide](https://designguide.dtu.dk/). Please note that the document should be set as a two-page rather than a one-page document, since the final thesis will be printed double-sided as a book format.
+
+### Preface of the PhD thesis
+
+For inspiration on the structure of the PhD thesis, it can be useful to refer to previous PhD theses from the DTU Biosustain department. The preface section typically uses Roman numerals as the page numbering. The first page should contain the title of the thesis, the month and year of submission, author name, the copyright and the department publishing the thesis. Following this should be a page with the written approval which should be dated and signed by the PhD student. Afterwards follows the abstract, the Danish abstract, list of publications, acknowledgements, table of contents, and list of figures and tables.
+
+### Cover design
 
 For the cover, there is a template available from the [DTU design guide PhD thesis section](https://designguide.dtu.dk/print), but most PhD students produce their own cover design. The cover should as a minimum have the DTU logo in the top left corner, the DTU department in the top right corner, the title of the PhD thesis and the name of the PhD student. Please refer to the [DTU design guide logo section](https://designguide.dtu.dk/logo) for the appropriate use of the DTU logo, department name, etc. The cover is allowed to be any colour, but it is important to know that the spine of the printed PhD thesis can only be selected from 12 different DTU colours. So, if you want the colour of the cover to match the colour of the spine, please refer to the colour codes in the section below in advance.
 
 
-
-## PhD defence
-
+## PhD defence (within 3 months of PhD thesis submission)
 
 
-## Printing of the PhD thesis
+
+### Printing of the PhD thesis
 
 
 
