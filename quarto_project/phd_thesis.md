@@ -96,7 +96,7 @@ Available colours and corresponding CYMK codes for the spine and cover of the pr
 
 For the shipping on the printed PhD theses, the official address for DTU Biosustain is: Søltofts Plads, bygning 220, 2800 Lyngby. For the billing, the [official EAN numbers list](https://www.dtu.dk/Om-DTU/kontakt-og-besoeg/for-leverandoerer/samhandel-med-dtu/ean-numre) states the EAN number for DTU Biosustain: 5798000430297.
 
-## Award of the PhD dimploma
+## Award of the PhD diploma
 
 After the public defence, the assessment committee will send the final recommendation document to the central PhD administration, who will forward it to the supervisors. A positive final recommendation will result in the awarding of the PhD diploma to the PhD student. DTU issues a diploma to persons who have acquired the PhD degree. The diploma states the title of the thesis and the PhD school/ department where the studies took place. The diploma is issued in a combined Danish/English version. An amendment to the diploma is prepared stating the ECTS activities completed during the PhD studies. The diploma is issued when all elements of the PhD study have been completed. After the defence, it may take up to 4 months, until the PhD graduate receives their diploma. The length of this period depends on the date of the final recommendation being submitted to the central PhD administration, as well as the date of the first succeeding meeting of the relevant PhD school committee.
 
