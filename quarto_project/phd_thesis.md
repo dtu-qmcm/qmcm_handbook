@@ -51,7 +51,8 @@ Announcement by the PhD school of DTU Biosustain of the public defence (online o
 ### Practicalities regarding the opponents 
 The supervisor hosts the assessment committee and coordinates the program for their stay at DTU Biosustain on the day. This is mainly the responsibility of the supervisor, but good to know about for the PhD student.
 
-DTU Biosustain's support unit will assist organising the event: 
+DTU Biosustain's support unit will assist organising the event:
+
 * Reception: Hotel & flight booking read about DTU's travel guidelines.
 * Event Coordinator Jeanette: ordering lunch and flowers for the PhD student.
 * HR & Finance keepsakes that we act within DTU rules.
@@ -59,7 +60,8 @@ DTU Biosustain's support unit will assist organising the event:
 ### Expense claims and Honorary 
 The assessment committee should claim the Honorary and travel reimbursement via e-forms. Please ask the [DTU Biosustain reception unit](mailto:reception@biosustain.dtu.dk) in case Fusion support is needed. This is mainly the responsibility of the supervisor, but good to know about for the PhD student.
 
-Claims covered by DTU Biosustain: 
+Claims covered by DTU Biosustain:
+
 * Maximum of 3 nights at a hotel for the examiners.
 * Economy flight ticket to Denmark.
 * Taxi vouchers through DTU Biosustain reception.
@@ -75,9 +77,9 @@ The printing of the PhD thesis is the responsibility of the PhD student, however
 * Enter "step print power" in the search field
 * Click on "Step Print Power - External Store" in the search results
 
-For the Step Print Power store, you can following the [PhD thesis printing guide](https://www.inside.dtu.dk/-/media/dtu-inside/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/trykkeri/guide-til-cover-generering.pdf). Make sure to actually count the number of pages with colour in the PhD thesis, since this impact the total price significantly.
+For the Step Print Power store, you can following the [PhD thesis printing guide](https://www.inside.dtu.dk/-/media/dtu-inside/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/trykkeri/guide-til-cover-generering.pdf). Make sure to actually count the number of pages with colour in the PhD thesis, since this will impact the total price significantly.
 
-Available colours and corresponding CYMK codes for the spine and cover of the printed PhD thesis:
+Available colours and corresponding CMYK codes for the spine and cover of the printed PhD thesis:
 
 ![Available spine colours](Spine_colours.png)
 
