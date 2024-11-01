@@ -17,7 +17,7 @@ Try asking teachers from courses with a similar topic or your head of studies.
 Contact **reception**. They can add access permission to your student profile at DTU.  
 You will need to scan your DTU card every time you want to enter the building.
 If you want to access the building outside working hours you will need to enter the PIN of your card.  
-By default the PIN is 2800 (DTU's postal code). You can change the PIN at [DTUbasen](https://www.dtubasen.dtu.dk/)
+By default the PIN is 2800 (DTU's postal code) or the last four digits of the card number (rear of the card, bottom left). You can change the PIN at [DTUbasen](https://www.dtubasen.dtu.dk/)
 
 ### IT equipment
 IT has laptops for students in case you need one. Ask your master thesis supervisor at *QMCM* if you need one.  
@@ -31,3 +31,7 @@ It needs to include a **description** of what you will be doing during the thesi
 The project plan does not need to be very detailed, and doesn't need to be followed (although ideally you would follow it).  
 
 ## How to find an external examiner
+For the defense you will need to find an external examinor (from outside of DTU), apart from your supervisors.
+You can find all the external examinors on [CensorNet](https://www.info.censornet.dk/english/). 
+To see the examinors, log in through DTU in "Employee at institution", and select the civil censorcorps. Most of the relevant censors will be under Civil - Kemi.  
+Ideally the examinor should have experience on the topic your thesis is about. Unfortunately, that is not displayed in CensorNet. You will need to search on the internet, papers, etc. what the potenial examinor is working on and decide based on that.
