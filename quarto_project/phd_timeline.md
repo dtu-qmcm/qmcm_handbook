@@ -22,7 +22,7 @@ There are three mandatory courses and one mandatory workshop which every PhD stu
 
 * Sustainability Assessment and Communication for 2.5 ECTS points (register through the [DTU course base](https://kurser.dtu.dk/) using course number [12950](https://kurser.dtu.dk/course/12950), [12951](https://kurser.dtu.dk/course/12951) or [12952](https://kurser.dtu.dk/course/12952)).
 * Supervision and facilitation of learning for 1.0 ECTS point (register through the [DTU Learning Lab](https://learninglab.dtu.dk/courses-and-events/supervision-and-facilitation-of-learning#dates--registration)).
-* PhD Seminars in Bioengineering and Synthetic Biology for 3.0 ECTS ([29903](https://kurser.dtu.dk/course/29903) You should attend at least 2/3 of the Friday seminar sessions and present yourself 3 times: one per year where the half-way presentation counts as one when done during the Friday seminar).
+* PhD Seminars in Bioengineering and Synthetic Biology for 3.0 ECTS (register as external course). You should attend at least 2/3 of the Friday seminar sessions (20 hours per year) and present yourself 2 times: on the second and third year (the half-way presentation counts as one when done during the Friday seminar). It is recommended that you also present in your first year.
 * Introduction to responsible conduct of research and research data management for new employees workshop (register through [DTU Inside](https://www.inside.dtu.dk/en/medarbejder/hr-og-arbejdsmiljoe/kompetenceudvikling/kursusoversigt_overside/kursusoversigt#?query=%7B%22Theme%22:%2235556%22,%22Role%22:%22%22,%22Language%22:%22%22,%22Cost%22:%22%22,%22SearchWord%22:%22%22,%22SortOn%22:%22%22,%22MaxRecords%22:10%7D)).
 
 There are many options for allocating the remaining required ECTS:
@@ -62,7 +62,7 @@ It is mandatory to meet at least every two weeks with your main supervisor and o
 
 ## Half year reports (5 - 35 months)
 
-The half-year reports have to be submitted every six months in [PhDigital](https://phdigital.dtu.dk) and are a measure to track your progress through the PhD. Select that the progress is satisfactory. For the "past six months" and "next six months" summaries, you can simple write a paragraph with an update or plan of your PhD activities, respectively. It is important to stay up-to-date with your half-year reports, since they have to be all submitted and approved before you can submit your PhD thesis in the end. Any changes in courses, external research stay, etc compared to the original PhD project plan, should be written in the half-year reports and will be approved accordingly.
+The half-year reports have to be submitted every six months in [PhDigital](https://phdigital.dtu.dk) (the first must be submitted 4 and a half months after the start, after that they are submitted every 6 months) and are a measure to track your progress through the PhD. Select that the progress is satisfactory. For the "past six months" and "next six months" summaries, you can simple write a paragraph with an update or plan of your PhD activities, respectively. It is important to stay up-to-date with your half-year reports, since they have to be all submitted and approved before you can submit your PhD thesis in the end. Any changes in courses, external research stay, etc compared to the original PhD project plan, should be written in the half-year reports and will be approved accordingly.
 
 ## First-year interview (11 - 12 months)
 
