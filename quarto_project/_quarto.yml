@@ -12,6 +12,7 @@ project:
   render:
     - index.md
     - general_information.md
+    - acknowledgements.md
     - phd_timeline.md
     - phd_thesis.md
     - masters_info.md
@@ -37,6 +38,7 @@ website:
     contents:
       - index.md
       - general_information.md
+      - acknowledgements.md
       - phd_timeline.md
       - phd_thesis.md
       - masters_info.md
