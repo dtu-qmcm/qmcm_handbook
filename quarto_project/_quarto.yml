@@ -25,6 +25,7 @@ project:
     - learning_resources.md
     - events.md
     - living_in_denmark.md
+    - departing.md
 
 website:
   title: "QMCM Handbook"
@@ -51,6 +52,7 @@ website:
       - learning_resources.md
       - events.md
       - living_in_denmark.md
+      - departing.md
 
 format:
   html:
