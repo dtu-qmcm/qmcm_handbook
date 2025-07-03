@@ -98,7 +98,7 @@ Remove all items from your desk and any drawers you used. Make sure to leave the
 
 If you have a locker in the changing rooms return the keys to reception.
 
-#### Bureocracy
+#### Bureaucracy
 Before your last day settle all your expenses on DTU Fusion and submit all your timecards.
 
 ## Wet lab
@@ -155,7 +155,7 @@ Let project successors and lab responsible review this list to make sure there a
 If you want to extend access to your DTU profile, including access to all the related services, you can get extensions of up to six months at a time. The extension needs to be actively requested **before the employment termination date**.
 
 1. The employee, whose profile should be extended, must sign a non-disclosure agreement. You can find the NDA in [DTU Inside](https://www.inside.dtu.dk/-/media/dtu-inside/institutter-og-centre/biosustain/dtu_biosustain/hr-/nda/extension-of-access_nda_2024-02-29.doc)
-2. The immediate manager must file a request for a prolongation of an active DTU profile with CFB-HR (HR@biosustain.dtu.dk) including:
+2. The immediate manager must file a request for a prolongation of an active DTU profile with [CFB-HR](mailto:HR@biosustain.dtu.dk) including:
     - The signed NDA from the employee
     - End date for the prolongation. 
 
